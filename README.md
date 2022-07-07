@@ -1,0 +1,1 @@
+This is Magic Button just try to click it.
